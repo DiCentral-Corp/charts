@@ -26,6 +26,6 @@ entries:
     sources:
     - https://github.com/clearbit/charts
     urls:
-    - https://futuretechindustriesllc.github.io/charts/pgbouncer-0.2.0.tgz
+    - https://github.com/DiCentral-Corp/charts/raw/master/pgbouncer-0.2.0-updated.tgz
     version: 0.2.0
 generated: 2018-06-12T23:15:13.323074815Z
